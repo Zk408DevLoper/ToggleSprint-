@@ -1,0 +1,17 @@
+name: ToggleSprint
+author: Skiddy2
+description: Made By Skiddy
+website: zk4$8 3373
+version: 1.0.0
+API: 2.0.0
+main: ToggleSprint\ToggleSprint
+
+commands:
+  togglesprint:
+    description: Toggle Sprint
+    permission: tgsprint.toggle
+    aliases: [tgsprint]
+    
+permissions:
+  tgsprint.toggle:
+    default: op
